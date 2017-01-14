@@ -1,0 +1,16 @@
+[package]
+name = "tors"
+version = "0.1.0"
+authors = ["Bayu Aldi Yansyah <bayualdiyansyah@gmail.com>"]
+description = "A multidimensional & homogeneous array in Rust"
+publish = true
+documentation = "https://github.com/pyk/tors"
+homepage = "https://github.com/pyk/tors"
+repository = "https://github.com/pyk/tors"
+readme = "README.md"
+license = "BSD-3-Clause"
+license-file = "LICENSE"
+exclude = [
+    "*.sublime*"
+]
+[dependencies]
