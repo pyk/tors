@@ -9,7 +9,6 @@ homepage = "https://github.com/pyk/tors"
 repository = "https://github.com/pyk/tors"
 readme = "README.md"
 license = "BSD-3-Clause"
-license-file = "LICENSE"
 exclude = [
     "*.sublime*"
 ]
